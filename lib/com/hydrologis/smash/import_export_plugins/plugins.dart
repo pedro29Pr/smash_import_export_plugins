@@ -7,7 +7,6 @@ part of smash_import_export_plugins;
 
 List<AImportPlugin> importPlugins = [
   GssImportPlugin(),
-  Gss2022ImportPlugin(),
   GttImportPlugin(),
 ];
 
@@ -17,6 +16,5 @@ List<AExportPlugin> exportPlugins = [
   GeopackageExportPlugin(),
   ImagesExportPlugin(),
   GssExportPlugin(),
-  Gss2022ExportPlugin(),
   GttExportPlugin(),
 ];
