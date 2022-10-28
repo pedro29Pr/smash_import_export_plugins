@@ -24,7 +24,7 @@ dependencies:
     #path: ../smashlibs/
      git:
       url: https://github.com/pedro29Pr/smashlibs.git
-      # ref: d273d6f
+      ref: 89878159fbb0c70d0c48040a99a5583ca26c08d4
 
   
   # apache 2
